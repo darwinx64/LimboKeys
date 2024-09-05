@@ -10,3 +10,4 @@ Get the newest build from releases. Right click > open. If you see a dialog aski
 
 # Building
 Open the project in Xcode and hit `Command + B`. Press `Product > Show Build Folder in Finder`
+
